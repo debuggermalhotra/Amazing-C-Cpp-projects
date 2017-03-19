@@ -98,13 +98,13 @@ float x1,y1,x2,y2,sx,sy,x3,y3,x4,y4,t,a;
 
 	
 printf("\nEnter the line coordinates:");
-printf("\nX1");
+printf("\nX1: ");
 scanf("%d", &x1);
-printf("\nY1");
+printf("\nY1: ");
 scanf("%d", &y1);
-printf("\nX2");
+printf("\nX2: ");
 scanf("%d", &x2);
-printf("\nY2");
+printf("\nY2: ");
 scanf("%d", &y2);  
 printf("\nEnter scaling factors:\n");
 printf("X Scaling: ");
